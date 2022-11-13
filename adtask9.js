@@ -57,8 +57,6 @@ let multiplyByTwo=multiply(3);
 multiplyByTwo(3); //output 9//
 
 
-    </script>
-</body>
-</html>
+
 
 
